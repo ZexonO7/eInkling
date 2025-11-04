@@ -1,0 +1,13 @@
+Component,Description,Approx Cost (INR),Approx Cost (USD),Notes
+Raspberry Pi 4 (2GB),Main board running the dashboard,4800,58,Enough power for Flask + rendering
+5-inch E-Ink Display,Monochrome Waveshare screen,5000,60,Core of the project
+32GB Micro SD Card,System + data storage,350,4,OS and JSON data
+5V 3A USB-C Power Supply,Stable power for Pi,500,6,Use a good quality one
+Jumper Wires & Breadboard,Wiring for SPI + LEDs,300,3.5,Reusable for testing
+Wooden Enclosure / Frame,Cozy scrapbook-style case,900,10.8,Warm finish and desk-safe
+Pi Mount (3D Printed),Internal mounting frame,500,6,Holds the Pi behind the display
+LEDs + Resistors,Status and power indicators,100,1.2,Subtle indicators only
+Cooling Kit (Optional),Heatsinks + fan (optional),250,3,For enclosed setups
+Misc Tools & Cables,"USB, HDMI, screws, etc.",300,3.5,Small extras
+"				",,,,
+"Total		",,"13000–13500		",$155–$160,depends on finish + extras
