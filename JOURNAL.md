@@ -142,3 +142,68 @@ like a calm machine that only wakes up to show you something you care about 🩶
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxNywicHVyIjoiYmxvYl9pZCJ9fQ==--6b51a08c82966f7ee1b9a32d7182bc0f33ee8780/image.png)
   
 
+## 11/5/2025 12 AM - well.. had to budgett  
+
+well.. had to budget and it was rough
+budgeting sounded simple but turning einking into something affordable almost broke my brain
+
+the goal was simple get einking closer to 50 dollars without losing the calm vibe
+
+the raspberry pi setup was running perfectly
+but every time i added up the numbers it felt wrong
+too expensive too overpowered for what we’re trying to build
+it’s supposed to be calm tech not a tech flex
+
+so i started tearing it all apart
+looking for something smaller cheaper but still alive enough to run the whole thing
+that’s when i landed on the esp32
+
+picked a small set of libraries planned memory carefully kept fonts simple
+designed the render to be predictable so the layout never feels crowded
+kept data local and light so updates feel instant when they happen
+
+the result from 160ish lands near 65 dollars and still feels like einking
+same slow energy same warm monochrome just smarter with parts and power
+
+hard in the way that makes a project sharper
+less noise more intention 🩶
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--87f75179b905707fbb43434441a96a2d6664a145/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--4b5216bab786d099f5d2cf9a444138a9e6752b3e/image.png)
+
+  
+
+## 11/5/2025 1 AM - makin the esp32 case  
+
+spent like 2ish hrs in onshape building the new case for the esp32 version
+the goal was to keep the same calm shape and energy of einking but make it fit a smaller quieter board
+
+the esp changed the whole layout
+the pi case had room for ports fans cables all that extra space
+this one had to be tighter cleaner almost invisible
+so i started over
+a frame that wraps perfectly around the e ink display with just enough room behind it for the esp32 to rest
+
+onshape took patience
+lots of small details to get right
+a slot for the usb port
+and a led peekin through
+asloo it has the name on it
+
+the case is a one piece
+the front plate holds the screen like a page
+the back plate clips in smoothly with the back
+no screws showing no sharp corners
+just a soft edge all around
+
+the esp sits in the back
+everything routes neatly to the display header
+it feels solid but light like a mix of craft and tech
+
+it’s still a digital model but looking at it in onshape already feels satisfying
+simple minimal warm
+exactly how einking should feel when it finally sits on a desk 🩶
+
+![Screenshot 2025-11-05 005258](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--90b231b81c2614464257a9fc027c79d97d575de3/Screenshot%202025-11-05%20005258.png)
+  
+
