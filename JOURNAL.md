@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/4/2025 - the Idea ✨✨  
+## 11/4/2025 6:16 PM - the Idea ✨✨  
 
 so I'm building something called einking
 the idea hit randomly and it just clicked
@@ -22,5 +22,45 @@ it’s just the start but we’re building it for real now
 and it already feels like it’s gonna be something special 🩶
 
 somethin like dis image, but a "bit" more crazyy ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e6611da85ea0d71b5ad7e7ee15fb23d96b911ab3/image.png)
+  
+
+## 11/4/2025 6:53 PM - turning Idea into hardwaree   
+
+Alsoo, I spent like the whole day yesterday deep-diving into how to actually build this thing
+the idea’s starting to turn into real parts and circuits now
+
+we’re going with a **raspberry pi 4** as the brain — it’s perfect
+fast enough to handle weather, notes, maybe even a lil web panel later
+and it keeps that “tiny desk computer” vibe i wanted
+
+- the display’s a 5-inch 7 color e-ink panel, found one for about $60
+sharp, calm, and exactly the kind of screen that makes tech feel slow in a good way
+
+did a ton of research on what else we’ll need too:
+
+- a 32gb sd card for the os
+- 5v 3a usb-c power supply
+- Jumper cables
+- some jumper wires to connect the display
+- a 3d printed small enclosure, maybe wooden or matte acrylic, to keep it cozy
+- heatsinks if it gets warm (the pi can be dramatic sometimes)
+
+so far the setup cost’s sitting around $130-ish total, which honestly feels worth it
+next step’s figuring out the software flow — how the pi’ll talk to the display
+and how we’ll make those clean lil “cards” for notes, weather, quotes, all that
+
+it’s finally starting to feel like something we can build for real 🩶
+
+![Screenshot 2025-11-04 182016](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--d118210fb74d573bdb41b90ca6dcc7c44199f18e/Screenshot%202025-11-04%20182016.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI5NywicHVyIjoiYmxvYl9pZCJ9fQ==--4fb7b793613dc27f94fcc0196d7ee4caee5c4a9b/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1696d42a4118aa2b684580afd74d0a6c0d606564/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--eebe0ffefc2358bcd9975b029b1c7f6e9b772aa9/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--b79e414acd474bf5fe29262ccc4ff3c649b7a1ab/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--9dab6e0a4a24aed6f4af5bda34c6c7651f25b6f7/image.png)
+
+
+
+
+
   
 
