@@ -96,3 +96,49 @@ the inside’s finally starting to make sense now 🩶
 
   
 
+## 11/4/2025 8 PM - The codeee  
+
+spent the day reading through all the code and honestly it’s starting to feel neat
+everything has its place and moves like clockwork
+
+the whole thing begins with run.py
+it’s basically the heart that starts the flask app
+that app isn’t just for editing notes and todos — it’s also what keeps the background refresh loop alive
+
+the refresh loop lives in app.py
+it runs quietly in a separate thread
+every few minutes it calls the renderer
+the renderer’s job is to build the actual image that’ll go on the e ink screen
+
+the renderer.py file is where the magic happens
+it creates a blank image using pillow and then calls a bunch of tiny modules called cards
+each card draws a piece of the dashboard
+they all get drawn in their own little rectangles
+when everything’s done the renderer sends the full image to eink.py
+
+that file decides where the frame goes
+if we’re in simulator mode it just saves it as a png in the out folder
+if we’re in waveshare mode it sends it to the actual e ink panel through spi
+so it’s the switch that decides if we’re testing or showing for real
+
+data lives inside the data folder
+just simple json files like notes.json and todos.json
+whenever you add or remove things on the web panel the flask app updates those files
+then on the next refresh the new info gets drawn on the screen
+
+the fonts the layout the spacing all come from the little utils in utils
+they make sure everything looks balanced and not cramped
+
+and that’s the whole rhythm of einking
+collect
+render
+display
+sleep
+repeat
+
+it’s small and quiet but everything inside works together perfectly
+like a calm machine that only wakes up to show you something you care about 🩶
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxNywicHVyIjoiYmxvYl9pZCJ9fQ==--6b51a08c82966f7ee1b9a32d7182bc0f33ee8780/image.png)
+  
+
