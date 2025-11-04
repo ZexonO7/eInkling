@@ -64,3 +64,35 @@ it’s finally starting to feel like something we can build for real 🩶
 
   
 
+## 11/4/2025 7 PM - designin the shells  
+
+today was all about the inside of the build
+specifically how the raspberry pi will sit and breathe inside the case
+
+not touching the outside yet just the little frame that holds the pi cleanly behind the e ink display
+no dangling wires no chaos just calm tidy internals
+
+started sketching a small backplate that the pi screws into with neat little slots for
+usb c power on the side
+a small hdmi and debug port for setup
+and two tiny leds on the front one for power and one for activity
+
+the plan is to make the pi kind of float behind the screen using brass standoffs
+cables will slide through a small channel that hides them completely
+might even add a magnetic back lid so it’s easy to open later if needed
+
+next up i’ll model the actual case for the display on openspace, alsoo made like an image wat I want it to kinda look likee 
+just a clean backplate with posts for the pi and cable grooves that match the board layout
+once printed it should snap right into the shell
+
+the inside’s finally starting to make sense now 🩶
+
+
+![Screenshot 2025-11-04 192435](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxMywicHVyIjoiYmxvYl9pZCJ9fQ==--57233ef9787ad07ba7849dea3d75e7a7eccf91e2/Screenshot%202025-11-04%20192435.png)
+
+![Screenshot 2025-11-04 191241](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--80e85af992016576b20bae764402212d1a39f5f7/Screenshot%202025-11-04%20191241.png)
+
+
+
+  
+
