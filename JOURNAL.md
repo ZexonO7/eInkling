@@ -142,3 +142,34 @@ like a calm machine that only wakes up to show you something you care about 🩶
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxNywicHVyIjoiYmxvYl9pZCJ9fQ==--6b51a08c82966f7ee1b9a32d7182bc0f33ee8780/image.png)
   
 
+## 11/5/2025 - well.. had to budgett  
+
+well.. had to budget and it was rough
+budgeting sounded simple but turning einking into something affordable almost broke my brain
+
+the goal was simple get einking closer to 50 dollars without losing the calm vibe
+
+the raspberry pi setup was running perfectly
+but every time i added up the numbers it felt wrong
+too expensive too overpowered for what we’re trying to build
+it’s supposed to be calm tech not a tech flex
+
+so i started tearing it all apart
+looking for something smaller cheaper but still alive enough to run the whole thing
+that’s when i landed on the esp32
+
+picked a small set of libraries planned memory carefully kept fonts simple
+designed the render to be predictable so the layout never feels crowded
+kept data local and light so updates feel instant when they happen
+
+the result from 160ish lands near 65 dollars and still feels like einking
+same slow energy same warm monochrome just smarter with parts and power
+
+hard in the way that makes a project sharper
+less noise more intention 🩶
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--87f75179b905707fbb43434441a96a2d6664a145/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--4b5216bab786d099f5d2cf9a444138a9e6752b3e/image.png)
+
+  
+
