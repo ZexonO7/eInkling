@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>notes</h2>
+<form method="post">
+  <textarea name="body" rows="3" placeholder="write a note"></textarea>
+  <button type="submit">add</button>
+</form>
+<ul>
+  {% for n in notes.items %}
+  <li>• {{ n.text }} <small>— {{ n.ts }}</small></li>
+  {% endfor %}
+</ul>
+{% endblock %}

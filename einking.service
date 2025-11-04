@@ -1,0 +1,15 @@
+[Unit]
+Description=eInking desk display
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/pi/eInking
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/home/pi/eInking/.venv/bin/python /home/pi/eInking/run.py
+Restart=on-failure
+User=pi
+
+[Install]
+WantedBy=multi-user.target

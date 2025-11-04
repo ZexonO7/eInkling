@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<section>
+  <h2>overview</h2>
+  <p>notes: {{ notes.items|length }} items · todos: {{ todos.items|length }} items</p>
+  <p>last loaded: {{ now.strftime('%Y-%m-%d %H:%M') }}</p>
+</section>
+{% endblock %}

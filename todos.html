@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>todos</h2>
+<form method="post">
+  <input name="body" placeholder="add a todo" />
+  <button type="submit">add</button>
+</form>
+<ul>
+  {% for t in todos.items %}
+  <li>
+    <form action="/api/todos/toggle" method="post" style="display:inline" onsubmit="return toggle(event, {{ loop.index0 }})">
+      <input type="hidden" name="index" value="{{ loop.index0 }}">
+      <button>{{ '[x]' if t.done else '[ ]' }}</button>
+    </form>
+    {{ t.text }}
+  </li>
+  {% endfor %}
+</ul>
+<script>
+async function toggle(e, idx){
+  e.preventDefault();
+  const fd = new FormData(e.target);
+  await fetch('/api/todos/toggle', {method:'POST', body:fd});
+  location.reload();
+  return false;
+}
+</script>
+{% endblock %}
