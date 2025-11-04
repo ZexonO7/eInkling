@@ -207,3 +207,39 @@ exactly how einking should feel when it finally sits on a desk 🩶
 ![Screenshot 2025-11-05 005258](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--90b231b81c2614464257a9fc027c79d97d575de3/Screenshot%202025-11-05%20005258.png)
   
 
+## 11/5/2025 4 AM - attempt to the assemblyy..  
+
+this was the longest build session yet
+spent hours in onshape trying to get the esp32 case assembly right and even though it looks simple it took forever to make everything align the way i imagined it
+
+the case is a single piece now
+the screen fits into the front panel  and the esp32 sits behind it perfectly
+but getting there meant rethinking the layout over and over
+the usb port had to line up cleanly
+the mounting space for the e ink had to stay thin without breaking the structure
+and all of it had to feel calm and balanced not like a box with electronics shoved inside
+
+i’m still new to cad so most of it was trial and error
+lots of tiny adjustments
+moving a part by a millimeter then realizing it broke another mate
+the esp module kept floating until i finally figured out how to anchor it
+but seeing it all snap together in the end felt so good
+
+now the assembly finally looks like something real
+the display rests in the frame
+the esp sits tucked behind with a couple of screws and breathing space
+everything’s aligned and clean from every angle
+
+it’s one solid shell that holds everything together quietly
+simple soft balanced
+took longer than it should have but i learned more about cad in this one project than in weeks before
+
+the best part is seeing it in 3d and realizing
+yeah this could actually sit on a desk and just be einking 🩶
+
+It would a lott better when its **actually** madee
+alsoo the displays a bit smaller in the modell..
+
+![Screenshot 2025-11-05 042806](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9b1491b8660d2359a9f54bd1631664938025de4/Screenshot%202025-11-05%20042806.png)
+  
+
