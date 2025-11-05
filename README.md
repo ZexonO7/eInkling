@@ -4,6 +4,8 @@ a calm digital paper project built on a raspberry pi and a 5-inch e-ink display.
 it’s meant to sit quietly on your desk and show you the small things — notes, todos, weather, and time.  
 no color. no movement. just slow, clean tech that feels like paper but thinks like code.
 
+<img width="1536" height="1024" alt="4a976584-c3ac-41a3-883a-c59129e36dc1" src="https://github.com/user-attachments/assets/a954a3a1-119a-42c3-98cc-45f2fb28af9e" />
+
 ---
 
 ## what it is
@@ -19,6 +21,8 @@ inside, it’s made of small focused pieces:
 - `app.py` — flask web panel for editing notes and todos  
 - `storage.py` — saves everything as json files  
 - `cards/` — small scripts that draw each element (clock, weather, notes, todos)
+
+<img width="293" height="290" alt="image" src="https://github.com/user-attachments/assets/60b1fff2-0bd5-48ae-ab8d-7747c0477f0c" />
 
 ---
 
@@ -60,11 +64,17 @@ everything stays local — no cloud, no database, no tracking.
 
 ## current goal
 
-finish the 3d-printed pi mount and internal frame  
+finish the 3d-printed mount and internal frame  
 get the first prototype running fully on hardware  
-and keep the design warm — more craft than code  
+and keep the design warm — more craft than code 
+
+<img width="1757" height="953" alt="Screenshot 2025-11-05 005258" src="https://github.com/user-attachments/assets/372f77f5-2ae7-45b7-ad55-f6fb4f7946df" />
+
 
 ---
 
-**eInking** is a small experiment in slow tech.  
+**eInkling** is a experiment in slow tech.  
 something that doesn’t buzz or blink — it just exists quietly on your desk 🩶
+
+<img width="1704" height="923" alt="Screenshot 2025-11-05 042806" src="https://github.com/user-attachments/assets/e698bf03-64a4-4de7-bc95-aa071088c1ba" />
+
