@@ -243,3 +243,30 @@ alsoo the displays a bit smaller in the modell..
 ![Screenshot 2025-11-05 042806](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9b1491b8660d2359a9f54bd1631664938025de4/Screenshot%202025-11-05%20042806.png)
   
 
+## 11/5/2025 11 AM - fixin the repo + assemblyy   
+
+the repo was starting to look cluttered
+old pi files mixed with the esp32 build and random exports from onshape
+so i spent the day sorting it all out and giving it some proper structure
+
+added all the parts from the assembly into the repo
+organized the folders so the 3d models live in a hardware section
+and the dev logs sit neatly inside docs
+the code base finally feels like one connected thing instead of scattered pieces
+
+updated the readme too
+it finally sounds like einking
+added notes about the esp32 version the case design and what’s changed since the early builds
+fixed the layout cleaned the formatting and made it easier to follow for anyone reading through
+
+it took a while but now the repo feels alive
+like it belongs to a real project not just an idea being tested
+everything fits together clearly and calmly
+it’s quiet organization but it changed everything
+einking’s starting to look finished from the inside out 🩶
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--5c10ff57e511d23de4e635636a3e4a9d1db90239/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUxNywicHVyIjoiYmxvYl9pZCJ9fQ==--4c6ce440af16f19ebf021b7ee8749bac99ae1b8b/image.png)
+
+  
+
