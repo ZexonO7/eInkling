@@ -296,5 +296,8 @@ nothing feels random anymore
 it’s one smooth continuous shell holding everything with quiet precision
 this version finally feels ready to printt 🩶
 
-![Screenshot 2025-11-06 201718](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2NywicHVyIjoiYmxvYl9pZCJ9fQ==--57fe2ed573788ed0da5d1f0f73d06e2f137056fb/Screenshot%202025-11-06%20201718.png)  
+![Screenshot 2025-11-06 201718](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2NywicHVyIjoiYmxvYl9pZCJ9fQ==--57fe2ed573788ed0da5d1f0f73d06e2f137056fb/Screenshot%202025-11-06%20201718.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a4a4742b78fbac287f499522498c1a5fa54ed862/image.png)
+  
 
