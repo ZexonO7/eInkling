@@ -270,3 +270,61 @@ einking’s starting to look finished from the inside out 🩶
 
   
 
+## 11/6/2025 8 PM - updatin the 3d assemblyy  
+
+spent almost four hours in onshape today
+it doesn’t look like a big change at first glance but this update took actual real patience
+
+the earlier version felt rough and loose
+the display sat slightly off center
+the esp mount wasn’t snug and the usb cutout didn’t line up with the shell anymore
+alsoo, where wasent a full casee
+soo i rebuilt the placement for every single part until everything sat exactly where it should
+
+the case is still a single solid body but now it feels tighter and more designed
+the esp32 board fits neatly into its space with just enough clearance for the port and the headers
+the e ink display rests flush in the front window with perfect depth
+and the routing behind it finally looks intentional instead of squeezed in
+
+being new to cad makes everything take twice as long
+half the time was just learning better ways to constrain and align things
+but this session felt different
+it stopped being just experimenting and started feeling like real design work
+
+the updated model looks clean balanced and more product like
+nothing feels random anymore
+it’s one smooth continuous shell holding everything with quiet precision
+this version finally feels ready to printt 🩶
+
+![Screenshot 2025-11-06 201718](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2NywicHVyIjoiYmxvYl9pZCJ9fQ==--57fe2ed573788ed0da5d1f0f73d06e2f137056fb/Screenshot%202025-11-06%20201718.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a4a4742b78fbac287f499522498c1a5fa54ed862/image.png)
+  
+
+## 11/6/2025 9 PM - fixin the overlappins in the assemblyy  
+
+spent some timee on fixin the overlapping parts in the case model
+it looked fine from a distance but once i started checking closely a few faces were cutting into each other and it was breaking the flow of the design
+
+the esp mount was slightly colliding with the back wall and the display pocket was just a little too deep
+tiny errors that made everything feel off when you zoomed in
+so i went back and adjusted every offset until the geometry was clean and nothing touched where it shouldn’t
+
+after fixing that i decided to add some color
+went with a royal green finish
+it changed everything
+the model suddenly felt premium but still calm
+not bright or flashy just rich and grounded
+
+the color made the soft edges stand out and the frame look more intentional
+it almost looks like a finished product now instead of a cad sketch
+
+took time but now the model feels balanced
+no overlaps no weird shadows just smooth clean surfaces
+and the royal green gives it that quiet elegance einking’s always been about 🩶
+
+![Screenshot 2025-11-06 213038](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkwMywicHVyIjoiYmxvYl9pZCJ9fQ==--5ee82784e38a4d2da34e8e82ff4398e7dae8ae37/Screenshot%202025-11-06%20213038.png)
+
+![Screenshot 2025-11-06 210936](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--58ec7e6fda74a6611cd4f8ccf1f38380185a8a2b/Screenshot%202025-11-06%20210936.png)
+  
+
