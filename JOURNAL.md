@@ -328,3 +328,33 @@ and the royal green gives it that quiet elegance einking’s always been about �
 ![Screenshot 2025-11-06 210936](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--58ec7e6fda74a6611cd4f8ccf1f38380185a8a2b/Screenshot%202025-11-06%20210936.png)
   
 
+## 11/7/2025 - pushin the budgett.. lower..  
+
+pushin the budget even lower
+spent almost three ishh hours reworking every part of the build to see how far i could bring the cost down without breaking what makes einking feel calm and complete
+
+the goal was to get it under fifty dollars and it actually worked
+swapped out the expensive wooden frame for a simpler printed shell made from a cheaper "picture" filament
+it doesn’t look as warm but it still keeps that soft shape and minimal feel
+
+found a cheaper e ink display too
+smaller and slower but still clear enough for the layout
+had to adjust the model dimensions slightly but it fits and runs fine with the esp32
+it feels more compact now less like a showpiece more like something small and thoughtful that just sits quietly on your desk
+
+dropped the sd card completely
+the esp’s integrated storage turned out to be enough once the code was cleaned up
+no external wiring no extra parts
+
+three hours of spreadsheets measurements and tweaking later it workss
+still does everything the same just lighter cheaper and simpler
+
+the tradeoffs were worth it
+it feels lean and efficient without losing the quiet personality that einking always had 🩶
+
+![Screenshot 2025-11-07 221550](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7b76cbfb9957dc402a655b1197dd00ee5d497a5f/Screenshot%202025-11-07%20221550.png)
+
+![Screenshot 2025-11-07 221531](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--35a99dac0447f313c6c6a6296009a5bac4c92887/Screenshot%202025-11-07%20221531.png)
+
+  
+
