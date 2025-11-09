@@ -1,10 +1,10 @@
 Component,Description,Approx Cost (INR),Approx Cost (USD),Notes
 ESP32-WROOM-32 Dev Board,Main board running the dashboard,700,8,Enough power for Flask + rendering
 5-inch Waveshare E-Ink Display (SPI),Monochrome Waveshare screen,"2,400",28,Core of the project
-5V ? 3.3V Power Converter (AMS1117 module),Stable power ,180,2,Usein a decent quality one
+5V ? 3.3V Power Converter (AMS1117 module) + Battery,Stable power ,180,2,Usein a decent quality one
 Jumper Wires & Breadboard,Wiring for SPI + LEDs,300,3.5,Reusable for testing
 Wooden Enclosure / Frame,Cozy scrapbook-style case,200,2,Warm finish and desk-safe
 Mount (3D Printed),Internal mounting frame,350,3,Holds the ESP32 behind the display
-Misc Tools & Cables,"USB, HDMI, screws, etc.",300,3.5,Small extras
+Misc Tools & Cables + buttons,"USB, HDMI, screws, etc.",300,3.5,Small extras
 "				",,,,
 "Total		",,4480,$50 ,depends on finish + extras
