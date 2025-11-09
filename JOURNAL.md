@@ -358,3 +358,39 @@ it feels lean and efficient without losing the quiet personality that einking al
 
   
 
+## 11/9/2025 - makin it complexx  
+
+spent around four hours today making einking a little more alive
+it started simple just code and a calm case but i wanted it to feel more like an actual object you could use not just look at
+
+added side buttons to the new model
+tiny round tactile ones recessed into the right edge of the shell
+one for manual refresh one for switching between layouts and one that cycles through quotes or messages
+getting them placed right took forever because every little change shifted the shell thickness and cable paths inside
+but when it finally lined up the whole thing felt more complete
+
+also added a li-ion 4.2v battery so it can run untethered
+no cables hanging out just quiet independence
+had to carve a small compartment in the back of the case for the cell and route the wires around the esp board without crowding it
+the balance between space weight and shape took most of the time
+
+and then built a matching case to hold everything together
+kept the soft edges and that royal green tone
+but added a smooth cutout along the right side for the buttons
+it looks more intentional now less like a prototype more like a finished device
+
+the inside is packed tighter than before but it works
+esp32 mount battery pocket button slots everything fits like a puzzle
+took four hours but now it feels like the project finally grew up
+
+einking isn’t just quiet tech anymore
+it’s a small calm machine that actually listens to you 🩶
+
+![Screenshot 2025-11-09 165623](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--cc2b292f43b03d85811a442b21aa2f3c435e3edf/Screenshot%202025-11-09%20165623.png)
+
+![Screenshot 2025-11-09 165727](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--12ba80fa35035a782eefb6bf3859aa04fa4822f5/Screenshot%202025-11-09%20165727.png)
+
+![Screenshot 2025-11-09 174221](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--d64362de3335fa7e2082700276bce208765373ad/Screenshot%202025-11-09%20174221.png)
+
+  
+
