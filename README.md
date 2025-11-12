@@ -20,7 +20,7 @@ simple physical control that makes it feel more alive but still calm
 it runs on a small 4.2v li ion battery
 no cables hanging off just a quiet little screen that breathes information slowly
 
-<img width="293" height="290" alt="image" src="https://github.com/user-attachments/assets/60b1fff2-0bd5-48ae-ab8d-7747c0477f0c" />
+<img width="1840" height="935" alt="Screenshot 2025-11-09 174221" src="https://github.com/user-attachments/assets/eb9f9204-a420-4837-8c37-40eb1f780a09" />
 
 the case is like 3 piece
 modeled in onshape with soft edges and a smooth royal green finish
@@ -31,15 +31,35 @@ inside it uses gxepd2 for the display wifi and httpclient for connection and ard
 it fetches weather notes and updates them as a simple black and white layout
 the whole thing stays efficient with deep sleep cycles keeping it calm even in code
 
+<img width="1844" height="940" alt="Screenshot 2025-11-09 165623" src="https://github.com/user-attachments/assets/d88c1ed2-9e0e-4ea4-b9f8-5dfa1ec01dce" />
+
 the repo holds everythin
 the code the 3d files the logs and all the assets
 it’s organized and complete ready for anyone who wants to build it
-
-<img width="1757" height="953" alt="Screenshot 2025-11-05 005258" src="https://github.com/user-attachments/assets/372f77f5-2ae7-45b7-ad55-f6fb4f7946df" />
 
 einking started as an idea for quiet tech
 now it’s something real that lives on a desk
 soft slow and deliberate 
 
-<img width="1704" height="923" alt="Screenshot 2025-11-05 042806" src="https://github.com/user-attachments/assets/e698bf03-64a4-4de7-bc95-aa071088c1ba" />
+<img width="279" height="941" alt="image" src="https://github.com/user-attachments/assets/0af34e49-6e2e-4bf0-a172-cf6265caac43" />
+
+figuring out the cost for einking took longer than building half the project
+the first few versions were too expensive the raspberry pi setup alone pushed it past a hundred dollars and it didn’t feel right
+this project was never meant to be a high end gadget it was meant to be quiet affordable and personal
+so every part had to earn its place
+
+the esp32 changed everything
+switching from the pi to the esp brought the cost down by more than half
+after that it was all about small careful choices
+a simpler printed case instead of a carved frame
+a smaller e ink display that still looked crisp
+and using the esp’s internal storage instead of adding an sd card
+each change trimmed the cost a little more
+
+right now the full build sits just under fifty dollars
+that includes the esp32 the display the battery the buttons and the printed case
+it took hours of research comparing parts measuring dimensions and balancing what to keep and what to let go
+
+<img width="1222" height="244" alt="Screenshot 2025-11-12 150700" src="https://github.com/user-attachments/assets/e71692f6-5967-46df-9cc5-abc557f5bdee" />
+
 
